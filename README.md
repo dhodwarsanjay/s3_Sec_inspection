@@ -32,18 +32,17 @@ The idea of this fork is that it should run "clean" if configured with expected 
     * Click "Create user"
     * # Copy the credentials
           * Access key ID
-          * Secret access key
-    
+          * Secret access key 
     * # Create ~/.aws/credentials file or paste the credentials in when you run the script 
-      * Put the credentials you copied in the previous step here in this format:
-            * [default] 
-            * aws_access_key_id = <your access key ID goes here>
-            * aws_secret_access_key = <your secret_access_key goes here>
+     * Put the credentials you copied in the previous step here in this format:
+       * [default] 
+       * aws_access_key_id = <your access key ID goes here>
+       * aws_secret_access_key = <your secret_access_key goes here>
 
 
-Usage
+# Usage:- 
 
-# python s3inspector.py
+python s3inspector.py
 
 Report example
 
