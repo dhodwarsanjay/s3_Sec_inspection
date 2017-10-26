@@ -1,6 +1,8 @@
 S3 Inspector
 
-Forked Tool to check AWS S3 bucket permissions
+![logo](https://github.com/dhodwarsanjay/raw/master/s3_Sec_inspection/inspectlogo.png)
+
+Tool to check AWS S3 bucket permissions
 
 This forked version assumed python prerequisites are installed, doesn't print ok buckets and takes away verbose errors at the end as well as a general refactor.
 
