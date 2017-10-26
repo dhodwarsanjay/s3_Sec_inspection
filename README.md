@@ -1,6 +1,6 @@
 S3 Inspector
 
-![logo](https://github.com/dhodwarsanjay/raw/master/s3_Sec_inspection/inspectlogo.png)
+![logo](https://github.com/dhodwarsanjay/s3_Sec_inspection/blob/master/inspectlogo.png)
 
 Tool to check AWS S3 bucket permissions
 
