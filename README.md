@@ -40,10 +40,8 @@ The idea of this fork is that it should run "clean" if configured with expected 
        * aws_secret_access_key = <your secret_access_key goes here>
 
 
-# Usage:- 
-
+Usage:- 
 python s3inspector.py
 
 Report example
 
-Sample report screenshot
