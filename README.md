@@ -1,6 +1,6 @@
-S3 Inspector
+# S3 Inspector  
 
-![logo](https://github.com/dhodwarsanjay/s3_Sec_inspection/blob/master/inspectlogo.png)
+   ![logo](https://github.com/dhodwarsanjay/s3_Sec_inspection/blob/master/inspectlogo.png)
 
 Tool to check AWS S3 bucket permissions
 
@@ -10,14 +10,15 @@ Also it allows you to add "ignored buckets" that you know are public.
 
 The idea of this fork is that it should run "clean" if configured with expected public buckets.
 
-What it does
 
-Checks all your buckets for public access
-For "bad" buckets gives you the report with:
-Indicator if your bucket is public or not
-Permissions for your bucket if it is public
-List of URLs to access your bucket (non-public buckets will return Access Denied) if it is public
-Prerequisites
+
+# What it does
+
+* Checks all your buckets for public access
+* For "bad" buckets gives you the report with:
+    * Indicator if your bucket is public or not
+    * Permissions for your bucket if it is public
+    * List of URLs to access your bucket (non-public buckets will return Access Denied) if it is public Prerequisites
 
 Create IAM user with AmazonS3ReadOnly policy attached
 Go to IAM (https://console.aws.amazon.com/iam/home)
